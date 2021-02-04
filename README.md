@@ -16,4 +16,5 @@ Skills: Python / HTML / CSS / MySQL / Selenium
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monish-mnjds)](https://github.com/anuraghazra/github-readme-stats)
 
-![WhatsApp Image 2021-02-04 at 12 04 11 PM](https://user-images.githubusercontent.com/66905892/106863381-766c7100-66ee-11eb-91cd-06e4ebd15715.jpeg = 50x100)
+![WhatsApp Image 2021-02-04 at 12 04 11 ](https://user-images.githubusercontent.com/66905892/106864542-08c14480-66f0-11eb-8ce8-82b22dbd1f23.jpeg)
+
