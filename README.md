@@ -5,7 +5,7 @@ Currently, working at TestYantra Software Solutions, Bangalore.
 Skills: Python / HTML / CSS / MySQL / Selenium 
 
 - 🔭 I’m currently working on Selenium. 
-- 🌱 I’m currently learning JavaScript. 
+- 🌱 I’m currently learning JavaScript and C++. 
 - 💬 Ask me about Python related stuffs..... 
 - 📫 How to reach me: monishneymar10@gmail.com 
 
