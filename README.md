@@ -1,6 +1,6 @@
 ## Hi there 👋, I am Monish from Bangalore
 ### I am an Associate Software Engineer....
-Currently, working at TestYantra Software Solutions, Bangalore.
+Currently, working at Test Yantra Software Solutions, Bangalore....
 
 Skills: Python / HTML / CSS / MySQL / Selenium 
 
