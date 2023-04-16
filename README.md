@@ -1,14 +1,13 @@
-##  I am Monish....
-### My designation is Junior Python Automation Engineer....
-Currently, working at Test Yantra Software Solutions, Bangalore....
+##  I am Monish Kalaiselvan and working as a Python Automation Engineer.
+Currently, working at Test Yantra Global, Bangalore.
 Deployed to Sony India Software Centre (SISC, India)
 
 Skills: Python / HTML / CSS / MySQL / Selenium / Appium / Git / Rest API / Sauce Labs / HeadSpin / Applitools /
         Jira / Confluence / GitHub / Pytest / qTest / Jenkins / Agile / Page Object Model / iOS & AOS / PyCharm
 
-- 🔭 I’m currently working on Mobile app automation.....
-- 🌱 I’m currently focusing on assuring quality product.....
-- 💬 Ask me about Python related stuffs..... 
+- 🔭 I’m currently working on Mobile app automation.
+- 🌱 I’m currently focusing on automating manual efforts of project activites.
+- 💬 Ask me about Python related stuffs.
 - 📫 How to reach me: https://www.linkedin.com/in/monish-kalaiselvan-3a940a216
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/monish-mnjds)  
